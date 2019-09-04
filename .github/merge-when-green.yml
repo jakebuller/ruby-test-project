@@ -1,3 +1,0 @@
-requiredChecks:
-  - travis-ci
-mergeMethod: squash
